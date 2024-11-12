@@ -59,8 +59,7 @@ void pop()
 }
 void peek()
 {
-
-    printf("%d", front->data);
+   printf("%d", front->data);
 }
 
 int main()
